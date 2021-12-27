@@ -1,5 +1,5 @@
 
-# ```SELF - BOT SCRIPT```
+# ```SELF-BOT SCRIPT```
 
 <p align="center">
 <a href="https://instagram.com/achyrr_wann/followers"><img title="Followers" src="https://img.shields.io/github/followers/X-Invibotz?color=red&style=flat-square"></a>
